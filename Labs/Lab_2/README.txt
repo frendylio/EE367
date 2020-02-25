@@ -1,4 +1,5 @@
-README
+# EE 367L Lab 2: Simple File Server and Client
+
 =============================================================================
 ## Compile Instructions:
 
